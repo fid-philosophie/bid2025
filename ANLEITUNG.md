@@ -30,6 +30,13 @@ docker run \
     --env LOG_LEVEL=debug \
     registry.gitlab.com/sciflow/development/server:latest
 ```
+
+On Windows CMD:
+
+```
+docker run --rm -d -p 127.0.0.1:3000:3000 --platform linux/amd64 --name os-aps-demo --volume "%CD%:/data" --env LOCAL_STORAGE_PATH=/data/manuscripts --env INSTANCE_TITLE="Bibliothekskongress 2025" --env FONT_PATH=/data/fonts/ --env LOG_LEVEL=debug --env TEMPLATE_SOURCE=/data/templates registry.gitlab.com/sciflow/development/server:latest
+```
+
 ## Running instance in the browser
 
 http://localhost:3000

@@ -12,5 +12,5 @@ In unserem Hands-on-Lab bieten wir, neben einer kurzen theoretischen Einführung
 
 **Moderation**: Dr. Joao Martins, Yannik Hampf (M.A),  Dr. Carsten Borchert, Sarah Bösendörfer (M.A)
 
-
+[Zoom Link](https://uni-koeln.zoom.us/j/98776269205?pwd=qCtTfVEzbqkaSjbjCQBJabIVn8RvFo.1)
 
