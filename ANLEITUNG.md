@@ -12,6 +12,7 @@ Clone this repository: `git clone https://github.com/fid-philosophie/bid2025.git
 
 ```
 cd bid2025
+mkdir osaps_data
 cd osaps_data
 ```
 
