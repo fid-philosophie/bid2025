@@ -14,3 +14,5 @@ In unserem Hands-on-Lab bieten wir, neben einer kurzen theoretischen Einführung
 
 [Zoom Link](https://uni-koeln.zoom.us/j/98776269205?pwd=qCtTfVEzbqkaSjbjCQBJabIVn8RvFo.1)
 
+[Yopad](https://yopad.eu/p/bid2025-osaps-1day)
+
